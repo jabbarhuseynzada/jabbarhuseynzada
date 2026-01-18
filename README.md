@@ -4,14 +4,13 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Backend+Specialist;System+Architecture;Clean+Code" alt="Typing SVG" />
 </div>
-<div align="center">
+
   
 ```
-╔════════════════════════════════════════════════════════════╗
-║                        ABOUT ME                             ║
-╚════════════════════════════════════════════════════════════╝
+                                    ╔════════════════════════════════════════════════════════════╗
+                                    ║                        ABOUT ME                            ║
+                                    ╚════════════════════════════════════════════════════════════╝
 ```
-</div>
 Baku-based developer focused on building scalable backend systems and clean architecture. Work primarily with C# and .NET, handling everything from API design to database optimization.
 
 ---
