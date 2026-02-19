@@ -7,7 +7,8 @@
 </div>
 Baku-based developer focused on building scalable backend systems and clean architecture. Work primarily with C# and .NET, handling everything from API design to database optimization.
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+
 
 <div align="center">
 
@@ -15,7 +16,9 @@ Baku-based developer focused on building scalable backend systems and clean arch
 
 </div>
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+
+
 
 ### Backend
 
@@ -45,7 +48,8 @@ Baku-based developer focused on building scalable backend systems and clean arch
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-E60071?style=for-the-badge&logo=n8n&logoColor=white)
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+
 
 <div align="center">
 
