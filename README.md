@@ -11,7 +11,7 @@ Baku-based developer focused on building scalable backend systems and clean arch
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app)]
 </div>
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
