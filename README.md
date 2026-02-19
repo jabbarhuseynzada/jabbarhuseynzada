@@ -60,4 +60,4 @@ Baku-based developer focused on building scalable backend systems and clean arch
 
 
 </div>
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
