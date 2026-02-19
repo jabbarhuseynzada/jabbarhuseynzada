@@ -11,8 +11,7 @@ Baku-based developer focused on building scalable backend systems and clean arch
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbarhuseynzada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/jabbarhuseynzada)
-
+[![Top Langs](https://github-readme-stats.vercel.app)
 </div>
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
