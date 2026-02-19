@@ -1,5 +1,4 @@
-
-<div align="center>#Jabbar Huseynzada </div>
+# Jabbar Huseynzada
 
 <div align="center">
   
