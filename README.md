@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=14&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=110&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90╝+%E2%95%9A%E2%95%90╝" alt="JABBAR"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4500,100:ff8c00&height=80&text=JABBAR%20HUSEYNZADA&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=50" width="600" alt="JABBAR HUSEYNZADA"/>
 </p>
 
 ---
@@ -83,8 +83,9 @@ Building software across every platform, making sense of data, and engineering r
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff6600?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-ff8c00?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ff4500?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff6600?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ff8c00?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-ff6600?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff8c00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff4500?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -130,6 +131,7 @@ Building software across every platform, making sense of data, and engineering r
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-ff8c00?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-ff4500?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-ff6600?style=for-the-badge&logo=androidstudio&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA_Fundamentals-ff8c00?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
