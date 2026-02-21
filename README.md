@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff4500,100:ff8c00&text=Hi,%20I'm%20Jabbar&fontColor=ffffff&desc=Web%20%E2%80%A2%20Desktop%20%E2%80%A2%20Mobile%20%E2%80%A2%20Telegram%20Bots&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff4500,100:ff8c00&text=Hi,%20I'm%20Jabbar&fontColor=ffffff&desc=Developer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Network%20Engineer&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 <div align="center">
@@ -26,8 +26,8 @@
 
 <div align="center">
 <p align="center" style="font-size:16px; max-width:600px;">
-A passionate <b>developer</b> who builds across every platform.<br><br>
-Web apps, desktop apps, mobile apps, Telegram bots — if it can be built, I'll build it.
+A passionate <b>developer</b>, <b>data analyst</b>, and <b>network engineer</b>.<br><br>
+Building software across every platform, making sense of data, and engineering reliable networks.
 </p>
 </div>
 
@@ -41,7 +41,7 @@ Web apps, desktop apps, mobile apps, Telegram bots — if it can be built, I'll 
   <tr>
     <td><code>dev</code></td>
     <td><b>What I do</b></td>
-    <td>Web · Desktop · Mobile · Telegram Bots</td>
+    <td>Developer · Data Analytics · Network Engineer</td>
   </tr>
   <tr>
     <td><code>stk</code></td>
