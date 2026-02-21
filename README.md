@@ -21,7 +21,7 @@
 
 <div align="center">
 <p align="center" style="font-size:16px; max-width:600px;">
-<b>Software</b> by day, <b>networks</b> by night, <b>data</b> all the time.
+<b>Software</b> by day, <b>networks</b> by night, <b>data</b> all the time.<br>
 Building software across every platform, making sense of data, and engineering reliable networks.
 </p>
 </div>
