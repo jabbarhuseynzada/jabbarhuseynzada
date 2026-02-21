@@ -11,18 +11,13 @@
 
 ---
 
-```
- █████╗ ██████╗  ██████╗ ██╗   ██╗████████╗    ███╗   ███╗███████╗
-██╔══██╗██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝    ████╗ ████║██╔════╝
-███████║██████╔╝██║   ██║██║   ██║   ██║       ██╔████╔██║█████╗  
-██╔══██║██╔══██╗██║   ██║██║   ██║   ██║       ██║╚██╔╝██║██╔══╝  
-██║  ██║██████╔╝╚██████╔╝╚██████╔╝   ██║       ██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝   ╚═╝       ╚═╝     ╚═╝╚══════╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=14&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=110&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90╝+%E2%95%9A%E2%95%90╝" alt="JABBAR"/>
+</p>
 
 ---
 
-<h2 align="center">[ ABOUT ME ]</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 <p align="center" style="font-size:16px; max-width:600px;">
@@ -63,7 +58,7 @@ Building software across every platform, making sense of data, and engineering r
 
 ---
 
-<h2 align="center">[ CONNECT ]</h2>
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
@@ -76,7 +71,7 @@ Building software across every platform, making sense of data, and engineering r
 
 ---
 
-<h2 align="center">[ TECH STACK ]</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -95,7 +90,7 @@ Building software across every platform, making sense of data, and engineering r
 
 ---
 
-<h2 align="center">[ GITHUB STATS ]</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <picture>
@@ -117,8 +112,8 @@ Building software across every platform, making sense of data, and engineering r
 
 ---
 
-```
-> building across every platform, one commit at a time.
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&pause=9999&color=FF6600&center=true&vCenter=true&repeat=false&width=500&lines=building+across+every+platform%2C+one+commit+at+a+time." alt="tagline"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,100:ff8c00&height=120&section=footer"/>
