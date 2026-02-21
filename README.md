@@ -21,7 +21,7 @@
 
 <div align="center">
 <p align="center" style="font-size:16px; max-width:600px;">
-just <b>developer</b>, <b>data analyst</b>, and <b>network engineer</b>.<br><br>
+<b>Software</b> by day, <b>networks</b> by night, <b>data</b> all the time.
 Building software across every platform, making sense of data, and engineering reliable networks.
 </p>
 </div>
