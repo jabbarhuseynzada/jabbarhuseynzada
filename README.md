@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=14&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=110&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88╔%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%3B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗+%E2%96%88%E2%96%88╗%3B%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90╝+%E2%95%9A%E2%95%90╝+%E2%95%9A%E2%95%90╝" alt="JABBAR"/>
+</p>
+
+---
+
 <h2 align="center">About Me</h2>
 
 <div align="center">
@@ -67,18 +73,63 @@ Building software across every platform, making sense of data, and engineering r
 
 <h2 align="center">Tech Stack</h2>
 
+<h4 align="center">Languages</h4>
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-ff4500?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff6600?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff8c00?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ff6600?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-ff6600?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff8c00?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff4500?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff6600?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-ff8c00?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff4500?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff6600?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff8c00?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<h4 align="center">Frameworks & Libraries</h4>
+<div align="center">
+
 ![.NET](https://img.shields.io/badge/.NET-ff4500?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ff6600?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-ff8c00?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-ff6600?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-ff8c00?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-ff4500?style=for-the-badge&logo=blazor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-ff6600?style=for-the-badge&logo=flutter&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-ff8c00?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff4500?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff6600?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff8c00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff4500?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ff6600?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff8c00?style=for-the-badge&logo=python&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-ff4500?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+<h4 align="center">Databases</h4>
+<div align="center">
+
+![MSSQL](https://img.shields.io/badge/SQL_Server-ff4500?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6600?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff8c00?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ff4500?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-ff6600?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff8c00?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<h4 align="center">Tools & Platforms</h4>
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-ff4500?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ff6600?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff6600?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff8c00?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff4500?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-ff6600?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-ff8c00?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-ff4500?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-ff6600?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 
