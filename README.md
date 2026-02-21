@@ -21,7 +21,7 @@
 
 <div align="center">
 <p align="center" style="font-size:16px; max-width:600px;">
-A passionate <b>developer</b>, <b>data analyst</b>, and <b>network engineer</b>.<br><br>
+just <b>developer</b>, <b>data analyst</b>, and <b>network engineer</b>.<br><br>
 Building software across every platform, making sense of data, and engineering reliable networks.
 </p>
 </div>
