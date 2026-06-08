@@ -1,22 +1,30 @@
-# Hi, I'm Jabbar
+## Jabbar Huseynzada
 
-Based in Baku, Azerbaijan.
+Software engineer based in Baku, Azerbaijan. I work mostly with .NET on the backend, and I'm currently studying for an M.Sc. in Data Analytics.
 
-- Developer · Data Analytics 
-- Mostly working with **C#**, **.NET**, and **Python**
-- Reach me on [Telegram](https://t.me/cabbruh)
+- Software Engineer at Arxitech Solutions
+- Building REST APIs with .NET, and Revit/BIM automation plugins in C#
+- Comfortable across the stack: .NET backends, Python scripting
 
-## Tech Stack
+### Stack
 
-**Languages:** C# · Dart · R · Python · PHP · JavaScript · SQL
-**Frameworks:** .NET / ASP.NET Core · Entity Framework · Blazor · Flutter
-**Databases:** SQL Server · PostgreSQL · MongoDB · Redis
-**Tools:** Git · Docker · Postman · Visual Studio · CCNA fundamentals
+`C#` `.NET` `ASP.NET Core` `EF Core` `Python` `R` `Dart / Flutter` `PostgreSQL` `SQL Server` `MongoDB` `Redis` `Docker` `Kubernetes` `xUnit`
 
-## Connect
+### Machine Learning / Data
 
-[Website](https://jabbar.codes) ·
-[LinkedIn](https://www.linkedin.com/in/jabbarhuseynzada) ·
-[Twitter/X](https://twitter.com/cabbruh) ·
-[Instagram](https://www.instagram.com/caabbarr) ·
-[Telegram](https://t.me/cabbruh)
+`scikit-learn` `Pandas` `NumPy` `Matplotlib` `SHAP`
+
+Working on classification and regression problems alongside my Data Analytics studies.
+
+### A few projects
+
+- **arxitech.solutions** - corporate backend built from scratch (.NET, PostgreSQL, Redis, SignalR, Docker)
+- **Revit Plugins** - SheetOut / ViewGen / SheetGen, BIM workflow automation
+- **jabbar.codes** - my portfolio, full-stack with CI/CD
+- **Refbesh.CastBesh** - open-source NuGet package for C-style casting
+
+### Contact
+
+- Website: [jabbar.codes](https://www.jabbar.codes)
+- LinkedIn: [jabbarhuseynzada](https://linkedin.com/in/jabbarhuseynzada)
+- Email: jabbar.huseynzada@gmail.com
