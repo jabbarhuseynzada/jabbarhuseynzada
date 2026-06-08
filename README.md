@@ -20,7 +20,3 @@ Based in Baku, Azerbaijan.
 [Twitter/X](https://twitter.com/cabbruh) ·
 [Instagram](https://www.instagram.com/caabbarr) ·
 [Telegram](https://t.me/cabbruh)
-
-## GitHub Stats
-
-![Jabbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbarhuseynzada&show_icons=true&hide_border=true)
