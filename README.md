@@ -2,8 +2,8 @@
 
 Based in Baku, Azerbaijan.
 
-- Developer · Data Analytics · Network Engineer
-- Mostly working with **C#**, **.NET**, and **Flutter**
+- Developer · Data Analytics 
+- Mostly working with **C#**, **.NET**, and **Python**
 - Reach me on [Telegram](https://t.me/cabbruh)
 
 ## Tech Stack
